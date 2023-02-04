@@ -1,0 +1,5 @@
+node_modules
+DS._STORE
+secrets.js
+ui-debug.log
+firebase-debug.log
