@@ -1,3 +1,3 @@
-node_modules
-DS._STORE
-.env
+firebase.json
+.firebaserc
+ui-debug.log
